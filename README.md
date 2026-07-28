@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Gawali</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=280&section=header&text=Abhijeet%20Gawali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20Developer%20•%20UI%2FUX%20Designer&descAlignY=60"/>  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;"/>
+
+</div>
 - 🌱 I’m currently learning **backend**
 
 - 💬 Ask me about **react,tailwind,javascript**
@@ -46,4 +51,8 @@ const AbhijeetGawali = {
 ---
 [![](https://komarev.com/ghpvc/?username=gawaliabhijeet-cell&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=180&section=footer"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
