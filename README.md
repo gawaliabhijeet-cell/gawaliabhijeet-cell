@@ -31,7 +31,11 @@ const AbhijeetGawali = {
   contact     : "gawalishambu@gmail.com",
 };
 ```
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gawaliabhijeet-cell/gawaliabhijeet-cell/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
