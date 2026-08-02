@@ -20,6 +20,7 @@
 <a href="https://twitter.com/@abhijeet_f6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhijeet_f6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijeet (shambu) gawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet (shambu) gawali" height="30" width="40" /></a>
 <a href="https://instagram.com/abhijeet_gawali_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_gawali_33" height="30" width="40" /></a>
+<a href="https://discord.gg/@abhijeetgawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@abhijeetgawali" height="30" width="40" /></a>
 </p>
 
 ---
@@ -55,6 +56,7 @@ const AbhijeetGawali = {
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gawaliabhijeet-cell&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gawaliabhijeet-cell&label=Profile%20views&color=0e75b6&style=flat" alt="gawaliabhijeet-cell" /> </p>
 ---
 
 
