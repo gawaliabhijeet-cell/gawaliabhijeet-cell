@@ -26,7 +26,6 @@
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=gawaliabhijeet-cell&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=gawaliabhijeet-cell&theme=radical&hide_border=false)
 
 ---
 
