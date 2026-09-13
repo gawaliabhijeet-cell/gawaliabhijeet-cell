@@ -41,6 +41,13 @@ const AbhijeetGawali = {
   contact     : "gawalishambu@gmail.com",
 };
 ```
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gawaliabhijeet-cell&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gawaliabhijeet-cell&theme=radical&hide_border=false)<br/>
+
+
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
