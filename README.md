@@ -35,7 +35,7 @@
 const AbhijeetGawali = {
   role        : "Full Stack Developer",
   focus       : ["MERN Stack", "Chrome Extensions", "REST APIs", "Auth Systems"],
-  currentlyOn : "backend",
+  currentlyOn : "backend","API"
   techPhilosophy : "Clean architecture + beautiful UI = products people love",
   openTo      : ["Collaborations", "Freelance", "Full-time Roles"],
   contact     : "gawalishambu@gmail.com",
